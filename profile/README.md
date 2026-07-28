@@ -2,7 +2,11 @@
 
 Welcome to the hands-on component of the TAP-WES Bioinformatics training!
 
-To access the tutorials, click `Repositories` in the top drop-down menu
+To access the tutorials, click `Repositories` in the top drop-down menu.
+
+We'll be starting with the [Project Organization for Bioinformatics](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial).
+
+Feel free to reach out to the course organizers if you're ever stuck on anything!
 
 
 <!--
